@@ -26,7 +26,7 @@ let response;
     case 'not as generous':
       response = "Thank you.";
       break;
-    default:
+    default: //all other tips sinarios 
       response = "Bye.";
       break;
     }
