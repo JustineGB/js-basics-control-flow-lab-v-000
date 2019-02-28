@@ -10,7 +10,6 @@ function scuberGreetingForFeet(someNumber) {
     result = "No can do.";
   }
   'I will gladly take your thirty bucks.'
-  //at the end, if I want my function to return something, I need to state it:
   return result
 }
 
