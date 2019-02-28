@@ -22,7 +22,7 @@ let response;
   switch (tip) {
     case 'generous':
       response = "Thank you so much.";
-      break;
+      break; //must break after each case 
     case 'not as generous':
       response = "Thank you.";
       break;
